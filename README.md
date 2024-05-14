@@ -1,2 +1,2 @@
 # first-day-demo
-This is the firs repository created in day 1
+This is the first repository created in day 1
